@@ -5,6 +5,7 @@ df = pd.read_csv("demo.csv")
 
 df["pf"] = df["salary"] * 0.06
 
+
 print(df)
 df.dropna(inplace=True)
 
