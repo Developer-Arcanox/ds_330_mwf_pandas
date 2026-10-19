@@ -1,0 +1,7 @@
+name,age,salary,department
+Vishal,34,56000.0,Sales
+,45,34000.0,Marketing
+Kunal,56,,Sales
+,67,84000.0,Finance
+Sumit,78,62000.0,Sales
+Vishal,34,56000.0,Finance
